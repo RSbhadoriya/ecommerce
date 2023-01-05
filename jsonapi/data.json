@@ -1,0 +1,308 @@
+{
+  "vendor": [
+    {
+      "name": "Amit",
+      "email": "amit@gmail.com",
+      "password": "1234",
+      "mobile": "9999999999",
+      "id": 1
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "password": "34567",
+      "number": "8746537234",
+      "address": "56, jfyher",
+      "id": 2
+    }
+  ],
+  "product": [
+    {
+      "id": 2,
+      "name": "Nokia",
+      "price": 36000,
+      "photo": "2.jpg",
+      "details": "Nokia product..Good condition"
+    },
+    {
+      "id": 3,
+      "name": "VIVO",
+      "price": 27000,
+      "photo": "3.jpg",
+      "details": "Vivo product..Good condition"
+    },
+    {
+      "id": 4,
+      "name": "OPPO",
+      "price": 26000,
+      "photo": "4.jpg",
+      "details": "Oppo product..Good condition"
+    },
+    {
+      "name": "BlackBerry",
+      "price": "80000",
+      "details": "High secure product...",
+      "photo": "https://geektime.es/wp-content/uploads/2020/08/blackberry-priv-official-render.jpg",
+      "id": 5
+    },
+    {
+      "name": "Motorola",
+      "price": "45000",
+      "details": "Good product ...",
+      "photo": "https://cdn.mos.cms.futurecdn.net/taxWvQayFgUjQXECHrbPua-970-80.jpg",
+      "id": 6
+    },
+    {
+      "name": "Apple",
+      "price": "75000",
+      "details": "Good for everyone",
+      "photo": "1.jpg",
+      "id": 1
+    }
+  ],
+  "cartitem": [],
+  "orders": [
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "mobile": "4556788899",
+      "address": "fr",
+      "productlist": [
+        {
+          "id": 2,
+          "name": "Nokia",
+          "price": 36000,
+          "photo": "2.jpg",
+          "details": "Nokia product..Good condition"
+        },
+        {
+          "id": 3,
+          "name": "VIVO",
+          "price": 27000,
+          "photo": "3.jpg",
+          "details": "Vivo product..Good condition"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "amit",
+      "email": "ravi@gmail.com",
+      "mobile": "4556788899",
+      "address": "fr",
+      "productlist": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "price": 75000,
+          "photo": "1.jpg",
+          "details": "Apple product..Good condition"
+        },
+        {
+          "id": 4,
+          "name": "OPPO",
+          "price": 26000,
+          "photo": "4.jpg",
+          "details": "Oppo product..Good condition"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "amit",
+      "email": "ravi@gmail.com",
+      "mobile": "4556788899",
+      "address": "fr",
+      "productlist": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "price": 75000,
+          "photo": "1.jpg",
+          "details": "Apple product..Good condition"
+        },
+        {
+          "id": 4,
+          "name": "OPPO",
+          "price": 26000,
+          "photo": "4.jpg",
+          "details": "Oppo product..Good condition"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "amit",
+      "email": "ravi@gmail.com",
+      "mobile": "4556788899",
+      "address": "fr",
+      "productlist": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "price": 75000,
+          "photo": "1.jpg",
+          "details": "Apple product..Good condition"
+        },
+        {
+          "id": 4,
+          "name": "OPPO",
+          "price": 26000,
+          "photo": "4.jpg",
+          "details": "Oppo product..Good condition"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "mobile": "4556788899",
+      "address": "fr",
+      "productlist": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "price": 75000,
+          "photo": "1.jpg",
+          "details": "Apple product..Good condition"
+        },
+        {
+          "id": 4,
+          "name": "OPPO",
+          "price": 26000,
+          "photo": "4.jpg",
+          "details": "Oppo product..Good condition"
+        },
+        {
+          "id": 2,
+          "name": "Nokia",
+          "price": 36000,
+          "photo": "2.jpg",
+          "details": "Nokia product..Good condition"
+        },
+        {
+          "id": 3,
+          "name": "VIVO",
+          "price": 27000,
+          "photo": "3.jpg",
+          "details": "Vivo product..Good condition"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "mobile": "4556788899",
+      "address": "fr",
+      "productlist": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "price": 75000,
+          "photo": "1.jpg",
+          "details": "Apple product..Good condition"
+        },
+        {
+          "id": 4,
+          "name": "OPPO",
+          "price": 26000,
+          "photo": "4.jpg",
+          "details": "Oppo product..Good condition"
+        },
+        {
+          "id": 2,
+          "name": "Nokia",
+          "price": 36000,
+          "photo": "2.jpg",
+          "details": "Nokia product..Good condition"
+        },
+        {
+          "id": 3,
+          "name": "VIVO",
+          "price": 27000,
+          "photo": "3.jpg",
+          "details": "Vivo product..Good condition"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@gmail.com",
+      "mobile": "4556788899",
+      "address": "fr",
+      "productlist": [
+        {
+          "id": 1,
+          "name": "Apple",
+          "price": 75000,
+          "photo": "1.jpg",
+          "details": "Apple product..Good condition"
+        },
+        {
+          "id": 4,
+          "name": "OPPO",
+          "price": 26000,
+          "photo": "4.jpg",
+          "details": "Oppo product..Good condition"
+        },
+        {
+          "id": 2,
+          "name": "Nokia",
+          "price": 36000,
+          "photo": "2.jpg",
+          "details": "Nokia product..Good condition"
+        },
+        {
+          "id": 3,
+          "name": "VIVO",
+          "price": 27000,
+          "photo": "3.jpg",
+          "details": "Vivo product..Good condition"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "er",
+      "email": "ravi@gmail.com",
+      "mobile": "4556788899",
+      "address": "fr",
+      "productlist": [
+        {
+          "name": "BlackBerry",
+          "price": "80000",
+          "details": "High secure product...",
+          "photo": "https://geektime.es/wp-content/uploads/2020/08/blackberry-priv-official-render.jpg",
+          "id": 5
+        },
+        {
+          "name": "Motorola",
+          "price": "45000",
+          "details": "Good product ...",
+          "photo": "https://cdn.mos.cms.futurecdn.net/taxWvQayFgUjQXECHrbPua-970-80.jpg",
+          "id": 6
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "er",
+      "email": "ravi@gmail.com",
+      "mobile": "4556788899",
+      "address": "fr",
+      "productlist": [
+        {
+          "id": 2,
+          "name": "Nokia",
+          "price": 36000,
+          "photo": "2.jpg",
+          "details": "Nokia product..Good condition"
+        }
+      ],
+      "id": 9
+    }
+  ]
+}
